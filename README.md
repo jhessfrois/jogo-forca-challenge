@@ -1,10 +1,18 @@
 # Jogo da Forca
 
-Utilizando HTML, CSS e JavaScript
+![preview](/github/preview.png)
+
+> Jogo desenvolvido através do Programa Oracle Next Education em parceria com a Alura
 
 ## Github Pages
-[Jogo da Forca](https://jhessfrois.github.io/jogo-forca/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-forca/)
 
-## Links Úteis
-[Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)<br><br>
-[Alura](https://cursos.alura.com.br/)
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## 🖤 Contato
+
+jhessfsantos@gmail.com
