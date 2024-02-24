@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Aplicação desenvolvida no 5º Desafio oferecido pelo projeto Oracle Next Education pela Alura e a Oracle.
+  Aplicação desenvolvida no 4º desafio oferecido no Oracle Next Education pela Oracle e a Alura.
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./github/preview.png" width="80%">
 </p>
+
+> Projeto desenvolvido entre os dias 10/09 e 14/09 de 2022
 
 ## **🚀 Tecnologias**
 
