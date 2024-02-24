@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido um jogo da forca com JavaScript.
 
 ## **💻 Github Pages**
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-forca/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-forca-challenge/)
 
 ## **🤍 Contato**
 
