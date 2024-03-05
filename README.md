@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo Oracle + Alura" src="https://www.alura.com.br/assets/img/challenges/general/oracle-one/logos/oracle-alura.1689860202.svg" width="200px" />
-</p>
+</p> 
 
 <p align="center">
   Aplicação desenvolvida no 4º desafio oferecido no Oracle Next Education pela Oracle e a Alura.
